@@ -48,7 +48,7 @@ O layout foi desenvolvido com foco em **experiência do usuário**, garantindo b
 ## 👩‍💻 Desenvolvedora
 
 Feito com 💚 por **[Alessandra Santana](https://github.com/DevAlessandra)**  
-📧 Contato: [LinkedIn](https://www.linkedin.com/in/alessandra-santanna)
+📧 Contato: [LinkedIn](https://linkedin.com/in/devalessandrasantana)
 
 ---
 
